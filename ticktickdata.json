@@ -1,0 +1,617 @@
+[
+    {
+        "id": "657eb47f9ec8d17ae6a88bc9",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-17T08:42:39.000+0000",
+                "endTime": "2023-12-17T09:17:17.000+0000"
+            }
+        ],
+        "startTime": "2023-12-17T08:42:39.000+0000",
+        "endTime": "2023-12-17T09:17:17.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "k4mkrow4",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657e5db0e7cd517ae6a888bc",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-17T02:32:16.000+0000",
+                "endTime": "2023-12-17T02:58:25.000+0000"
+            }
+        ],
+        "startTime": "2023-12-17T02:32:16.000+0000",
+        "endTime": "2023-12-17T02:58:25.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "ursrxern",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657e45ece826917ae6a88298",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-17T00:50:52.000+0000",
+                "endTime": "2023-12-17T01:15:52.000+0000"
+            }
+        ],
+        "startTime": "2023-12-17T00:50:52.000+0000",
+        "endTime": "2023-12-17T01:15:52.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "dn6chhxp",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657e3948fca8117ae6a88168",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-16T23:56:56.000+0000",
+                "endTime": "2023-12-17T00:21:56.000+0000"
+            }
+        ],
+        "startTime": "2023-12-16T23:56:56.000+0000",
+        "endTime": "2023-12-17T00:21:56.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "6oxoi6jv",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657d053dff5a117ae6a87ce8",
+        "tasks": [
+            {
+                "taskId": "657a7c3d8b12916654d737b8",
+                "title": "Morning routine",
+                "projectName": "Mindset",
+                "startTime": "2023-12-16T02:02:37.000+0000",
+                "endTime": "2023-12-16T02:12:49.000+0000"
+            },
+            {
+                "taskId": "657a7c3d8b12916654d737b8",
+                "title": "Morning routine",
+                "projectName": "Mindset",
+                "startTime": "2023-12-16T08:23:19.000+0000",
+                "endTime": "2023-12-16T08:38:07.000+0000"
+            }
+        ],
+        "startTime": "2023-12-16T02:02:37.000+0000",
+        "endTime": "2023-12-16T08:38:07.000+0000",
+        "status": 1,
+        "pauseDuration": 22230,
+        "etag": "6av9ehmv",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657cff37f4e9117ae6a87bd1",
+        "tasks": [
+            {
+                "taskId": "657a7c3d8b12916654d737b8",
+                "title": "Morning routine",
+                "projectName": "Mindset",
+                "startTime": "2023-12-16T01:36:55.000+0000",
+                "endTime": "2023-12-16T02:01:55.000+0000"
+            }
+        ],
+        "startTime": "2023-12-16T01:36:55.000+0000",
+        "endTime": "2023-12-16T02:01:55.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "mkvsosoy",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657c530d98768a532c6a72c9",
+        "tasks": [
+            {
+                "taskId": "657c530198768a532c6a72a7",
+                "title": "real exercise",
+                "projectName": "Health",
+                "startTime": "2023-12-15T13:22:21.000+0000",
+                "endTime": "2023-12-15T14:04:45.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T13:22:21.000+0000",
+        "endTime": "2023-12-15T14:04:47.000+0000",
+        "pauseDuration": 1,
+        "etag": "acuwjljs",
+        "type": 1
+    },
+    {
+        "id": "657c39c1cc29517ae6a8784e",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T11:34:25.000+0000",
+                "endTime": "2023-12-15T11:51:09.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T11:34:25.000+0000",
+        "endTime": "2023-12-15T11:51:13.000+0000",
+        "status": 1,
+        "pauseDuration": 4,
+        "etag": "qyqxw9vf",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657c2afbdcd9d17ae6a87611",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T10:31:23.000+0000",
+                "endTime": "2023-12-15T10:56:23.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T10:31:23.000+0000",
+        "endTime": "2023-12-15T10:56:23.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "eqksipej",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657c185f2b96517ae6a874c5",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T09:11:59.000+0000",
+                "endTime": "2023-12-15T09:36:59.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T09:11:59.000+0000",
+        "endTime": "2023-12-15T09:36:59.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "l83igjln",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657c180ed91b917ae6a87362",
+        "tasks": [
+            {
+                "taskId": "657c17ead5edd17ae6a872e9",
+                "title": "lam bai cua OL",
+                "projectName": "Inbox",
+                "startTime": "2023-12-15T08:50:00.000+0000",
+                "endTime": "2023-12-15T09:00:00.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T08:50:00.000+0000",
+        "endTime": "2023-12-15T09:00:00.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "s9k6adzu",
+        "type": 0,
+        "added": true
+    },
+    {
+        "id": "657c180ed91b117ae6a87361",
+        "tasks": [
+            {
+                "taskId": "657c17ead5edd17ae6a872e9",
+                "title": "lam bai cua OL",
+                "projectName": "Inbox",
+                "startTime": "2023-12-15T08:25:00.000+0000",
+                "endTime": "2023-12-15T08:50:00.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T08:25:00.000+0000",
+        "endTime": "2023-12-15T08:50:00.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "nt9sz2vt",
+        "type": 0,
+        "added": true
+    },
+    {
+        "id": "657c180ed91a917ae6a87360",
+        "tasks": [
+            {
+                "taskId": "657c17ead5edd17ae6a872e9",
+                "title": "lam bai cua OL",
+                "projectName": "Inbox",
+                "startTime": "2023-12-15T08:00:00.000+0000",
+                "endTime": "2023-12-15T08:25:00.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T08:00:00.000+0000",
+        "endTime": "2023-12-15T08:25:00.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "pmbwu1vr",
+        "type": 0,
+        "added": true
+    },
+    {
+        "id": "657be4912511117ae6a86b22",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T05:30:57.000+0000",
+                "endTime": "2023-12-15T05:42:22.000+0000"
+            },
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T06:01:32.000+0000",
+                "endTime": "2023-12-15T06:15:07.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T05:30:57.000+0000",
+        "endTime": "2023-12-15T06:15:07.000+0000",
+        "status": 1,
+        "pauseDuration": 1150,
+        "etag": "q1is6tlw",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657bd97c2527517ae6a8688f",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T04:43:40.000+0000",
+                "endTime": "2023-12-15T05:08:40.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T04:43:40.000+0000",
+        "endTime": "2023-12-15T05:08:40.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "8viu9zr4",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657bcb022f5b117ae6a86459",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T03:41:54.000+0000",
+                "endTime": "2023-12-15T04:06:54.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T03:41:54.000+0000",
+        "endTime": "2023-12-15T04:06:54.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "kr8bsip8",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657bc432588ad17ae6a85f8d",
+        "tasks": [
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T03:12:50.000+0000",
+                "endTime": "2023-12-15T03:13:46.000+0000"
+            },
+            {
+                "taskId": "657ba78db2e3117ae6a85b0b",
+                "title": "DB + Keep track of Score",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T03:16:27.000+0000",
+                "endTime": "2023-12-15T03:40:31.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T03:12:50.000+0000",
+        "endTime": "2023-12-15T03:40:31.000+0000",
+        "status": 1,
+        "pauseDuration": 161,
+        "etag": "oi4bwi39",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657bbce6516b117ae6a85e56",
+        "tasks": [
+            {
+                "taskId": "657ba6d984fe117ae6a85a20",
+                "title": "review code Hieu",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T02:41:42.000+0000",
+                "endTime": "2023-12-15T02:53:58.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T02:41:42.000+0000",
+        "endTime": "2023-12-15T02:54:00.000+0000",
+        "status": 1,
+        "pauseDuration": 2,
+        "etag": "rzbq74nr",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657ba72fa44f517ae6a85a97",
+        "tasks": [
+            {
+                "taskId": "657ba6d984fe117ae6a85a20",
+                "title": "review code Hieu",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T01:09:03.000+0000",
+                "endTime": "2023-12-15T01:11:39.000+0000"
+            },
+            {
+                "taskId": "657ba6d984fe117ae6a85a20",
+                "title": "review code Hieu",
+                "projectName": "Hala English",
+                "startTime": "2023-12-15T02:19:13.000+0000",
+                "endTime": "2023-12-15T02:41:37.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T01:09:03.000+0000",
+        "endTime": "2023-12-15T02:41:37.000+0000",
+        "status": 1,
+        "pauseDuration": 4054,
+        "etag": "jx2tdvta",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657ba142a367517ae6a8576b",
+        "tasks": [
+            {
+                "taskId": "657a7c3d8b12916654d737b8",
+                "title": "Morning routine",
+                "projectName": "Mindset",
+                "startTime": "2023-12-15T00:43:46.000+0000",
+                "endTime": "2023-12-15T01:08:46.000+0000"
+            }
+        ],
+        "startTime": "2023-12-15T00:43:46.000+0000",
+        "endTime": "2023-12-15T01:08:46.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "jjqepxy2",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657b2746bd2a117ae6a85558",
+        "tasks": [
+            {
+                "taskId": "657b2740b22bd17ae6a85533",
+                "title": "learning",
+                "projectName": "Software Engineer Skill",
+                "startTime": "2023-12-14T16:03:18.000+0000",
+                "endTime": "2023-12-14T16:11:57.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T16:03:18.000+0000",
+        "endTime": "2023-12-14T16:11:59.000+0000",
+        "status": 1,
+        "pauseDuration": 2,
+        "etag": "8mr7b42l",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657b16d0b679517ae6a85343",
+        "tasks": [
+            {
+                "taskId": "657a854bc88c917ae6a83a25",
+                "title": "read about Svelte",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T14:53:04.000+0000",
+                "endTime": "2023-12-14T15:18:04.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T14:53:04.000+0000",
+        "endTime": "2023-12-14T15:18:04.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "2i07482r",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657b0fbbb6f1917ae6a85267",
+        "tasks": [
+            {
+                "taskId": "657a854bc88c917ae6a83a25",
+                "title": "read about Svelte",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T14:22:51.000+0000",
+                "endTime": "2023-12-14T14:47:51.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T14:22:51.000+0000",
+        "endTime": "2023-12-14T14:47:51.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "lbpfkwhc",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657b08afb2c7117ae6a8511e",
+        "tasks": [
+            {
+                "taskId": "657a854bc88c917ae6a83a25",
+                "title": "read about Svelte",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T13:52:47.000+0000",
+                "endTime": "2023-12-14T14:17:47.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T13:52:47.000+0000",
+        "endTime": "2023-12-14T14:17:47.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "q6zodbnt",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657af3a18e48917ae6a84f83",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T12:22:57.000+0000",
+                "endTime": "2023-12-14T12:47:57.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T12:22:57.000+0000",
+        "endTime": "2023-12-14T12:47:57.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "1vqidxhe",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657ae1c08ba6117ae6a84e0e",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T11:06:40.000+0000",
+                "endTime": "2023-12-14T11:23:18.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T11:06:40.000+0000",
+        "endTime": "2023-12-14T11:23:21.000+0000",
+        "status": 1,
+        "pauseDuration": 3,
+        "etag": "3y5inzx7",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657adbde8096117ae6a84d41",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T10:41:34.000+0000",
+                "endTime": "2023-12-14T11:06:34.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T10:41:34.000+0000",
+        "endTime": "2023-12-14T11:06:34.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "ow9kwi6q",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657aca3ceed4517ae6a849f8",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T09:26:20.000+0000",
+                "endTime": "2023-12-14T09:51:20.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T09:26:20.000+0000",
+        "endTime": "2023-12-14T09:51:20.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "nxwdcg8x",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657ac2409395917ae6a848a5",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T08:52:16.000+0000",
+                "endTime": "2023-12-14T09:17:16.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T08:52:16.000+0000",
+        "endTime": "2023-12-14T09:17:16.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "thlxchnq",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657abc5a9219117ae6a84781",
+        "tasks": [
+            {
+                "taskId": "657abc51dd7c517ae6a8473f",
+                "title": "User Profile Design: login",
+                "projectName": "Hala English",
+                "startTime": "2023-12-14T08:27:06.000+0000",
+                "endTime": "2023-12-14T08:52:06.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T08:27:06.000+0000",
+        "endTime": "2023-12-14T08:52:06.000+0000",
+        "status": 1,
+        "pauseDuration": 0,
+        "etag": "qona2zjv",
+        "type": 0,
+        "added": false
+    },
+    {
+        "id": "657ab8bf64d66df44e14a3f4",
+        "tasks": [
+            {
+                "taskId": "657a7d84ad78116654d73ab4",
+                "title": "meditation",
+                "projectName": "Mindset",
+                "startTime": "2023-12-14T08:11:43.000+0000",
+                "endTime": "2023-12-14T08:25:50.000+0000"
+            }
+        ],
+        "startTime": "2023-12-14T08:11:43.000+0000",
+        "endTime": "2023-12-14T08:25:54.000+0000",
+        "status": 1,
+        "pauseDuration": 4,
+        "etag": "erft5r1q",
+        "type": 0,
+        "added": false
+    }
+]
